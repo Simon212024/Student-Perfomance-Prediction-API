@@ -115,6 +115,34 @@ http://127.0.0.1:8000/docs
 ```
 
 ---
+## Swagger Documentation
+
+### Swagger Welcome
+
+![Swagger](screenshots/SwaggerWelcomeScreen.png)
+
+---
+### GET Endpoint
+
+![Swagger](screenshots/GetEndpoint.png)
+
+---
+
+### Prediction Endpoint
+
+![Prediction](screenshots/postEndpoint.png)
+
+---
+
+### Successful Prediction
+
+![Prediction Result](screenshots/ModelPrediction.png)
+
+---
+
+### Validation Example
+
+![Validation](screenshots/validationError.png)
 
 ## Future Improvements
 
@@ -128,7 +156,7 @@ http://127.0.0.1:8000/docs
 
 ## Developer
 
-Simon Cephas Kasibante
+Kasibante Simon
 
 Bachelor of Science in Computer Engineering
 
